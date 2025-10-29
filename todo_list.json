@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "检查数据文件是否存在",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "description": "读取和探索数据",
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "description": "进行数据清洗",
+      "status": "completed"
+    },
+    {
+      "id": 4,
+      "description": "进行统计分析",
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "description": "生成可视化图表",
+      "status": "completed"
+    },
+    {
+      "id": 6,
+      "description": "进行特征筛选",
+      "status": "completed"
+    }
+  ]
+}

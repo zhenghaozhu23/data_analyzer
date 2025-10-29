@@ -1,0 +1,10 @@
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+langchain-experimental>=0.0.50
+openai>=1.0.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+jupyter-client>=8.0.0
+ipykernel>=6.0.0
+jupyter-core>=5.0.0
